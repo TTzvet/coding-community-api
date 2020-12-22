@@ -1,0 +1,28 @@
+{
+  "name": "app_api",
+  "version": "1.0.0",
+  "description": "Community Website Prototype - API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7WCM0035-WSAD/community-web-prototype.git"
+  },
+  "keywords": [
+    "app",
+    "api"
+  ],
+  "author": "Teodora Tzvetkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7WCM0035-WSAD/community-web-prototype/issues"
+  },
+  "homepage": "https://github.com/7WCM0035-WSAD/community-web-prototype#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
